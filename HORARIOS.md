@@ -1,5 +1,3 @@
----
-
 ## 📅 Rotina e Faculdade
 
 <div align="center">
@@ -57,8 +55,6 @@
     </tr>
   </table>
 </div>
-
----
 
 ## 📝 Notas e Observações
 
