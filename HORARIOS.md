@@ -69,3 +69,31 @@
 
 
 </div>
+
+
+# 24/08/2026:
+
+Segunda-feira, dia de monitoria do Londrinense Tech, onde, juntamente com o instrutor Felipe, demos continuidade aos estudos de HTML, desta vez com foco na criação e utilização de formulários (mais detalhes no meu portfolio).
+Além disso, dei continuidade aos estudos de Java na plataforma Udemy para o último capítulo.
+
+ # 25/08/2026:
+
+Terça-feira, dia de monitoria, onde, juntamente com o instrutor Victor, propomos a criação de um portfólio pessoal utilizando os conhecimentos de HTML e CSS estudados ao longo das aulas anteriores. Os alunos desenvolveram uma página simples, mas funcional, utilizando divs, containers, imagens, textos e diferentes estruturas para organizar áreas como perfil, informações pessoais e uma barra lateral (mais detalhes no meu portfolio).
+Além disso, iniciei o projeto de P.I. no qual temos que criar um site relacionado à uma das ODS da ONU (escolhido foi saúde e bem-estar).
+
+
+# 26/08/2026:
+
+Quarta-feira, sem monitoria, então, por gostar muito de design e da parte visual dos projetos, me encarreguei de terminar o projeto do P.I. que agora demos um nome: VivaCidade (mais detalhes no meu portfolio).
+Finalizei o projeto que tinha, como prazo, o dia 27/08 (quinta-feira).
+
+# 27/08/2026:
+
+???
+
+# 28/08/2026:
+
+???
+
+
+
