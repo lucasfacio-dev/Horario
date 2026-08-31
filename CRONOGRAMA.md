@@ -81,7 +81,6 @@ Além disso, dei continuidade aos estudos de Java na plataforma Udemy para o úl
 Terça-feira, dia de monitoria, onde, juntamente com o instrutor Victor, propomos a criação de um portfólio pessoal utilizando os conhecimentos de HTML e CSS estudados ao longo das aulas anteriores. Os alunos desenvolveram uma página simples, mas funcional, utilizando divs, containers, imagens, textos e diferentes estruturas para organizar áreas como perfil, informações pessoais e uma barra lateral (mais detalhes no meu portfolio).
 Além disso, iniciei o projeto de P.I. no qual temos que criar um site relacionado à uma das ODS da ONU (escolhido foi saúde e bem-estar).
 
-
 # 26/08/2026:
 
 Quarta-feira, sem monitoria, então, por gostar muito de design e da parte visual dos projetos, me encarreguei de terminar o projeto do P.I. que agora demos um nome: VivaCidade (mais detalhes no meu portfolio).
@@ -89,11 +88,23 @@ Finalizei o projeto que tinha, como prazo, o dia 27/08 (quinta-feira).
 
 # 27/08/2026:
 
-???
+Quinta-feira, sem monitoria, decidi estudar mais um pouco de Java incluindo realizar uma atividade de POO da aula do Marcelo. Avancei nos estudos e pude subir de nível no curso que estou fazendo da Udemy de Java.
 
 # 28/08/2026:
 
+Sexta-feira, sem monitoria e sem aula à noite, porb já ter terminado minhas UCDs obrigatórias, usei esse dia para finalizar os slides de apresentação do projeto VivaCidade de P.I., esses slides serão usados na apresentação da minha equipe e do projeto na próxima semana.
+
+# 31/08/2026:
+
+Segunda-feira, dia de monitoria do Londrinense Tech, onde, juntamente com o instrutor Felipe, demos continuidade aos estudos de HTML, desta vez com foco na criação e utilização de tabelas (mais detalhes no meu portfolio).
+Além disso, ajudei o pessoal do NPI na organização e separação dos alimentos doados que chegaram hoje. Muitos pacotes vieram rasgados e com alimento vazado, então separamos as embalagens em bom estado e descartamos as em mau estado. Depois disso, atualizei o portfolio e os relatórios e finalizei uma atividade de documentação em javadocs.
+
+# 01/09/2026:
+
 ???
+
+
+
 
 
 
