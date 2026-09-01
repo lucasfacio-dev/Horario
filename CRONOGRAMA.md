@@ -96,12 +96,14 @@ Sexta-feira, sem monitoria e sem aula à noite, porb já ter terminado minhas UC
 
 # 31/08/2026:
 
-Segunda-feira, dia de monitoria do Londrinense Tech, onde, juntamente com o instrutor Felipe, demos continuidade aos estudos de HTML, desta vez com foco na criação e utilização de tabelas (mais detalhes no meu portfolio).
+Segunda-feira, dia de monitoria do Londrinense Tech, onde, juntamente com o instrutor Felipe, demos continuidade aos estudos de HTML e CSS, desta vez com foco na criação e utilização de tabelas (mais detalhes no meu portfolio).
 Além disso, ajudei o pessoal do NPI na organização e separação dos alimentos doados que chegaram hoje. Muitos pacotes vieram rasgados e com alimento vazado, então separamos as embalagens em bom estado e descartamos as em mau estado. Depois disso, atualizei o portfolio e os relatórios e finalizei uma atividade de documentação em javadocs.
 
 # 01/09/2026:
 
-???
+Terça-feira, dia de monitoria do Pensamento Computacional, onde, juntamente com o instrutor Victor e Felipe, as turmas A e B foram unificadas, juntando ambas as salas, alunos e monitores em uma só. Demos continuidade aos estudos de HTML e CSS no projeto do portfolio pessoal, mas, devido ao tempo, os instrutores Felipe e Victor resolveram, através de um modelo semi pronto, adiantar o projeto para ser finalizado hoje e dar tempo de iniciar novo conteúdo na próxima aula (mais detalhes no meu portfolio).
+Além disso, finalizei a segunda lista de Álgebra Linear do professor Guilherme, para, assim, limpar as tarefas pendentes e poder ter tempo para estudar outras linguagens e conteúdos e desenvolver novas soft skills.
+
 
 
 
