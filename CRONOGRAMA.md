@@ -104,6 +104,14 @@ Além disso, ajudei o pessoal do NPI na organização e separação dos alimento
 Terça-feira, dia de monitoria do Pensamento Computacional, onde, juntamente com o instrutor Victor e Felipe, as turmas A e B foram unificadas, juntando ambas as salas, alunos e monitores em uma só. Demos continuidade aos estudos de HTML e CSS no projeto do portfolio pessoal, mas, devido ao tempo, os instrutores Felipe e Victor resolveram, através de um modelo semi pronto, adiantar o projeto para ser finalizado hoje e dar tempo de iniciar novo conteúdo na próxima aula (mais detalhes no meu portfolio).
 Além disso, finalizei a segunda lista de Álgebra Linear do professor Guilherme, para, assim, limpar as tarefas pendentes e poder ter tempo para estudar outras linguagens e conteúdos e desenvolver novas soft skills.
 
+# 02/09/2026:
+
+Quarta-feira, sem monitoria, então, finalizei todas as atividades de POO e estou começando um mini projeto onde vou revisar todos os conteúdos passados pelo professor Marcelo, assim, praticando e treinando para conseguir realizar as provas teóricas e práticas dele de semana que vem. Além disso, também concluí algumas tarefas de Álgebra Linear pendentes.
+
+# 03/09/2026:
+
+Quinta-feira, sem monitoria, continuei os estudos de POO para praticar e treinar, tanto para as provas de semana que vem do professor Marcelo, quanto para aprendizado pessoal. Estou revisando: sobrecarga. polimorfismo, associação, encapsulamento, herança, métodos, etc.
+
 
 
 
