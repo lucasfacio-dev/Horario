@@ -92,7 +92,7 @@ Quinta-feira, sem monitoria, decidi estudar mais um pouco de Java incluindo real
 
 # 28/08/2026:
 
-Sexta-feira, sem monitoria e sem aula à noite, porb já ter terminado minhas UCDs obrigatórias, usei esse dia para finalizar os slides de apresentação do projeto VivaCidade de P.I., esses slides serão usados na apresentação da minha equipe e do projeto na próxima semana.
+Sexta-feira, sem monitoria e sem aula à noite, por já ter terminado minhas UCDs obrigatórias, usei esse dia para finalizar os slides de apresentação do projeto VivaCidade de P.I., esses slides serão usados na apresentação da minha equipe e do projeto na próxima semana.
 
 # 31/08/2026:
 
@@ -112,6 +112,9 @@ Quarta-feira, sem monitoria, então, finalizei todas as atividades de POO e esto
 
 Quinta-feira, sem monitoria, continuei os estudos de POO para praticar e treinar, tanto para as provas de semana que vem do professor Marcelo, quanto para aprendizado pessoal. Estou revisando: sobrecarga. polimorfismo, associação, encapsulamento, herança, métodos, etc.
 
+# 04/09/2026:
+
+Sexta-feira, sem monitoria e sem aula à noite, decidi complementar os estudos de POO com exercícios práticos para chegar bem para a prova. Além disso, às 16h30 participei do Grupo de Pesquisa IA, que estávamos sem ter desde julho, mas dessa vez parece que retornou normalmente. 
 
 
 
