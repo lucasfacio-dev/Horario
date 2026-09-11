@@ -114,7 +114,27 @@ Quinta-feira, sem monitoria, continuei os estudos de POO para praticar e treinar
 
 # 04/09/2026:
 
-Sexta-feira, sem monitoria e sem aula à noite, decidi complementar os estudos de POO com exercícios práticos para chegar bem para a prova. Além disso, às 16h30 participei do Grupo de Pesquisa IA, que estávamos sem ter desde julho, mas dessa vez parece que retornou normalmente. 
+Sexta-feira, sem monitoria e sem aula à noite, decidi complementar os estudos de POO com exercícios práticos para chegar bem para a prova. Além disso, às 16h30 participei do Grupo de Pesquisa IA, que estávamos sem ter desde julho, mas dessa vez parece que retornou normalmente. Nesta aula do Grupo de IA, foi apresentado alguns conceitos novos como Busca Semântica e uma técnica de IA chamada RAG (Retrieval-Augmented Generation).
+
+# 08/09/2026
+
+Terça-feira, dia de monitoria do Pensamento Computacional, onde, juntamente com o instrutor Victor, com as turmas A e B já unificadas, foi passado uma atividade no novo conteúdo escolhido pelos anos: Landing Pages.
+A ideia era fazer uma espécie de "clone" do site da Apple, usando html e css (mais detalhes no meu portfolio).
+Além disso, estudei para a prova de POO do Marcelo, que será dia 09/09/2026.
+
+# 09/09/2026
+
+Quarta-feira, sem monitoria, então, finalizei todas as atividades de POO e criei exemplos manualmente para conseguir ir bem na prova de noite. Na prova, consegui, sozinho, realizar quase tudo proposto, mesmo que no final tenha faltado uma parte, a entrega foi sem erros e código bem escrito, fruto dos estudos.
+
+# 10/09/2026
+
+Quinta-feira, sem monitoria, estudei e revisei os conteúdos da matéria de Gerenciamento de Projeto, focando nas ferramentas de metodologias ágeis. Além disso, com o tempo que sobrou, revisei e fiz um roteiro de apresentação para a aula de P.I. onde apresentei o projeto VivaCidade com foco na ODS 3 (Saúde e Bem-Estar) em um pitch na aula do Wilson. Na prova, consegui ir muito bem e gabaritá-la, bem como a apresentação.
+
+# 11/09/2026
+
+Sexta-feira, sem monitoria e sem aula à noite, decidi complementar os estudos de depuração e documentação de cógigo (matérias de Análise e Projeto de Algoritmos) com exercícios práticos para chegar bem para a prova de segunda do Gustavo. Além disso, às 16h30 participei do Grupo de Pesquisa IA novamente, onde seguimos com o conteúdo novo.
+
+
 
 
 
