@@ -134,10 +134,67 @@ Quinta-feira, sem monitoria, estudei e revisei os conteúdos da matéria de Gere
 
 Sexta-feira, sem monitoria e sem aula à noite, decidi complementar os estudos de depuração e documentação de cógigo (matérias de Análise e Projeto de Algoritmos) com exercícios práticos para chegar bem para a prova de segunda do Gustavo. Além disso, às 16h30 participei do Grupo de Pesquisa IA novamente, onde seguimos com o conteúdo novo.
 
+# 14/09/2026:
 
+Segunda-feira, dia de monitoria do Londrinense Tech, onde, juntamente com o instrutor Felipe, demos continuidade aos estudos de HTML e CSS, desta vez com foco na criação e estilização de tabelas. Os alunos desenvolveram uma atividade prática utilizando como referência seus próprios horários escolares, além de participarem de uma dinâmica no Blooket para reforçar o conteúdo.
+Durante minha monitoria, acompanhei minha fileira, esclareci dúvidas e auxiliei os alunos na conclusão da atividade. Todos conseguiram finalizar e enviar seus trabalhos pelo Classroom.
 
+# 15/09/2026:
 
+Terça-feira, dia de monitoria do Pensamento Computacional, onde os alunos deram continuidade ao projeto de reprodução de uma Landing Page inspirada no site da Apple. O foco foi aprimorar a estilização com CSS, trabalhando imagens, fontes, botões e posicionamento dos elementos.
+Durante minha atuação, auxiliei alunos de diferentes fileiras, esclarecendo dúvidas e retomando conteúdos que alguns haviam perdido por faltas ou atrasos. Também procurei incentivar a compreensão do código, evitando que apenas copiassem os exemplos sem entender seu funcionamento.
 
+# 16/09/2026:
 
+Quarta-feira, dia dedicado aos estudos e às atividades acadêmicas da faculdade. Aproveitei o período para revisar conteúdos das disciplinas, organizar materiais e dar continuidade ao meu desenvolvimento na área de programação.
 
+# 17/09/2026:
 
+Quinta-feira, dei continuidade à minha rotina de estudos, revisando conteúdos vistos durante a semana e organizando minhas atividades acadêmicas. Também aproveitei para reforçar conhecimentos relacionados à programação e ao desenvolvimento de software.
+
+# 18/09/2026:
+
+Sexta-feira, dia de encontro do grupo de Inteligência Artificial. Durante o período, participei das atividades e discussões do grupo, acompanhando o andamento dos estudos e contribuindo com o desenvolvimento das propostas e do novo projeto onde estamos em duplas, respondemos um questionário e pesquisas. Também reservei um tempo para organizar minhas demandas acadêmicas.
+
+# 21/09/2026:
+
+Segunda-feira, dia de monitoria do Londrinense Tech, onde a instrutora Sibelly substituiu o instrutor Felipe. A aula foi voltada à revisão de HTML e CSS, com foco na criação e personalização de tabelas. Os alunos praticaram novas formas de estilização, explorando diferentes possibilidades visuais.
+Mesmo enfrentando alguns problemas de saúde, consegui permanecer na monitoria, esclarecer dúvidas e manter a organização da minha fileira. Todos conseguiram concluir a atividade proposta.
+
+# 22/09/2026:
+
+Terça-feira, não pude comparecer à monitoria de Pensamento Computacional devido a problemas de saúde e à necessidade de atendimento médico. Por esse motivo, não participei das atividades realizadas em sala durante este dia.
+
+# 23/09/2026:
+
+Quarta-feira, permaneci afastado das atividades acadêmicas e da monitoria devido ao meu estado de saúde, seguindo as orientações médicas e respeitando o período de afastamento.
+
+# 24/09/2026:
+
+Quinta-feira, continuei afastado por motivo de saúde, sem realizar as atividades presenciais da faculdade ou da monitoria, conforme o período de atestado médico.
+
+# 25/09/2026:
+
+Sexta-feira, permaneci afastado das atividades devido ao atestado médico. Também não houve encontro do grupo de Inteligência Artificial nesta data.
+
+# 28/09/2026:
+
+Segunda-feira, dia de monitoria do Londrinense Tech, onde a instrutora Sibelly realizou uma revisão de HTML, CSS e tags semânticas. Os alunos desenvolveram um portfólio personalizado e participaram de uma dinâmica em grupos. Durante minha atuação, pude esclarecer dúvidas e acompanhar meu grupo, que concluiu todas as atividades.
+Também teve início a TechFil 2026, 20 Semana Tecnológica da UniFil, com palestras, estandes de empresas e oportunidades de contato com profissionais da área. Aproveitei o dia para organizar meu portfólio e currículo, preparando para apresentar durante o evento.
+
+# 29/09/2026:
+
+Terça-feira, dia de monitoria do Pensamento Computacional, onde o instrutor Victor deu continuidade ao estudo de JavaScript com um desafio de criação de um programa de fidelidade, utilizando variáveis e estruturas condicionais para classificar clientes.
+Durante minha monitoria, auxiliei diversas fileiras, esclarecendo dúvidas e retomando conteúdos. Também continuei ajustando meu portfólio, currículo e até o Linkedin para aproveitar as oportunidades da TechFil.
+
+# 30/09/2026:
+
+Quarta-feira, aproveitei o dia para continuar organizando meu portfólio e currículo, aprimorando a apresentação dos meus projetos e experiências acadêmicas. Também acompanhei a programação da TechFil 2026, conhecendo melhor as empresas e oportunidades presentes no evento.
+
+# 01/10/2026:
+
+Quinta-feira, finalizei meu novo portfólio e currículo para apresentar melhor meus conhecimentos e experiências na Engenharia de Software. Também aproveitei a semana tecnológica para acompanhar as atividades, ampliar minha visão sobre o mercado de tecnologia e tentar alguns rankings ou sorteios.
+
+# 02/10/2026:
+
+Sexta-feira, último dia da TechFil 2026. Finalizei alguns ajustes nos meus materiais profissionais, fiz estes commits para atualizar o github e aproveitei a semana tecnológica como oportunidade de aprendizado e aproximação com o mercado de trabalho. Não houve encontro do grupo de Inteligência Artificial hoje.
