@@ -7,8 +7,8 @@
 | Horário | Segunda | Terça | Quarta | Quinta | Sexta |
 |---------|---------|-------|--------|--------|-------|
 | **14:00-17:45** | 💻 Compromissos NPI | 💻 Compromissos NPI | 💻 Compromissos NPI | 💻 Compromissos NPI | 💻 Compromissos NPI |
-| **19:00-20:30** | 🎓 Algoritmos | 🎓 Cálculo | 🎓 Cálculo | 🎓 Gerenciamento | 💻 Atividades Digitais |
-| **20:45-22:15** | 🎓 POO | 🎓 Gerenciamento | 🎓 POO | 🎓 PII | 💻 Atividades Digitais |
+| **19:00-20:30** | 🎓 Desenvolvimento Web | 🎓 Cálculo | 🎓 POO | 🎓 Desenvolvimento Web | 💻 Atividades Digitais |
+| **20:45-22:15** | 🎓 POO | 🎓 Algoritmo | 🎓 PI | 🎓 POO | 💻 Atividades Digitais |
 
 <br/>
 
@@ -16,11 +16,12 @@
 
 <div align="left">
 
-- **📊 Análise e Projeto de Algoritmos** - Segunda 19:00-20:30
-- **☕ Linguagem de Programação Orientada a Objetos** - Segunda 20:45-22:15 e Quarta 20:45-22:15
-- **🧮 Elementos de Cálculo e Álgebra Linear** - Terça 19:00-20:30 e Quarta 19:00-20:30
-- **📋 Gerenciamento de Projetos** - Terça 20:45-22:15 e Quinta 19:00-20:30
-- **🔄 Projeto Interdisciplinar II (PII)** - Quinta 20:45-22:15
+- **🛜 Desenvolvimento Web** - Segunda 19:00-20:30 e Quinta 19:00-20:30
+- **☕ Linguagem de Programação Orientada a Objetos** - Segunda 20:45-22:15 e Quinta 20:45-22:15
+- **🧮 Elementos de Cálculo e Álgebra Linear** - Terça 19:00-20:30
+- **📊 Análise e Projeto de Algoritmos** - Terça 20:45-22:15
+- **📋 Análise e Projetos Orientado a Objetos** - Quarta 19:00-20:30
+- **🔄 Projeto Interdisciplinar II (PIV)** - Quarta 20:45-22:15
 - **💻 Atividades Digitais** - Sexta (Online)
 
 </div>
@@ -31,7 +32,7 @@
 
 | 📌 Data | Evento | 📝 Descrição | Status |
 |---------|--------|--------------|---------|
-| **📆 Em Breve** | **Em Breve** | **Em Breve** | ⏳ Pendente |
+| **📆 28/09** | **Techfil 2026** | **Semana Tecnológica de 2026** | ✅ Concluída |
 | **📆 Em Breve** | **Em Breve** | **Em Breve** | ⏳ Pendente |
 | **📆 Em Breve** | **Em Breve** | **Em Breve** | ⏳ Pendente |
 
@@ -60,7 +61,7 @@
 
 <div align="center">
   <ul align="left">
-    <li>📌 Atualizar README sempre</li>
+    <li>📌 Atualizar CRONOGRAMA toda semana</li>
     <li>📌 Adicionar novos projetos conforme forem criados</li>
     <li>📌 Manter contatos atualizados</li>
     <li>📌 Revisar metas mensalmente</li>
@@ -137,12 +138,12 @@ Sexta-feira, sem monitoria e sem aula à noite, decidi complementar os estudos d
 # 14/09/2026:
 
 Segunda-feira, dia de monitoria do Londrinense Tech, onde, juntamente com o instrutor Felipe, demos continuidade aos estudos de HTML e CSS, desta vez com foco na criação e estilização de tabelas. Os alunos desenvolveram uma atividade prática utilizando como referência seus próprios horários escolares, além de participarem de uma dinâmica no Blooket para reforçar o conteúdo.
-Durante minha monitoria, acompanhei minha fileira, esclareci dúvidas e auxiliei os alunos na conclusão da atividade. Todos conseguiram finalizar e enviar seus trabalhos pelo Classroom.
+Durante minha monitoria, acompanhei minha fileira, esclareci dúvidas e auxiliei os alunos na conclusão da atividade. Todos conseguiram finalizar e enviar seus trabalhos pelo Classroom (mais detalhes no meu portfolio).
 
 # 15/09/2026:
 
 Terça-feira, dia de monitoria do Pensamento Computacional, onde os alunos deram continuidade ao projeto de reprodução de uma Landing Page inspirada no site da Apple. O foco foi aprimorar a estilização com CSS, trabalhando imagens, fontes, botões e posicionamento dos elementos.
-Durante minha atuação, auxiliei alunos de diferentes fileiras, esclarecendo dúvidas e retomando conteúdos que alguns haviam perdido por faltas ou atrasos. Também procurei incentivar a compreensão do código, evitando que apenas copiassem os exemplos sem entender seu funcionamento.
+Durante minha atuação, auxiliei alunos de diferentes fileiras, esclarecendo dúvidas e retomando conteúdos que alguns haviam perdido por faltas ou atrasos. Também procurei incentivar a compreensão do código, evitando que apenas copiassem os exemplos sem entender seu funcionamento (mais detalhes no meu portfolio).
 
 # 16/09/2026:
 
@@ -159,7 +160,7 @@ Sexta-feira, dia de encontro do grupo de Inteligência Artificial. Durante o per
 # 21/09/2026:
 
 Segunda-feira, dia de monitoria do Londrinense Tech, onde a instrutora Sibelly substituiu o instrutor Felipe. A aula foi voltada à revisão de HTML e CSS, com foco na criação e personalização de tabelas. Os alunos praticaram novas formas de estilização, explorando diferentes possibilidades visuais.
-Mesmo enfrentando alguns problemas de saúde, consegui permanecer na monitoria, esclarecer dúvidas e manter a organização da minha fileira. Todos conseguiram concluir a atividade proposta.
+Mesmo enfrentando alguns problemas de saúde, consegui permanecer na monitoria, esclarecer dúvidas e manter a organização da minha fileira. Todos conseguiram concluir a atividade proposta (mais detalhes no meu portfolio).
 
 # 22/09/2026:
 
@@ -179,13 +180,13 @@ Sexta-feira, permaneci afastado das atividades devido ao atestado médico. Tamb�
 
 # 28/09/2026:
 
-Segunda-feira, dia de monitoria do Londrinense Tech, onde a instrutora Sibelly realizou uma revisão de HTML, CSS e tags semânticas. Os alunos desenvolveram um portfólio personalizado e participaram de uma dinâmica em grupos. Durante minha atuação, pude esclarecer dúvidas e acompanhar meu grupo, que concluiu todas as atividades.
+Segunda-feira, dia de monitoria do Londrinense Tech, onde a instrutora Sibelly realizou uma revisão de HTML, CSS e tags semânticas. Os alunos desenvolveram um portfólio personalizado e participaram de uma dinâmica em grupos. Durante minha atuação, pude esclarecer dúvidas e acompanhar meu grupo, que concluiu todas as atividades (mais detalhes no meu portfolio).
 Também teve início a TechFil 2026, 20 Semana Tecnológica da UniFil, com palestras, estandes de empresas e oportunidades de contato com profissionais da área. Aproveitei o dia para organizar meu portfólio e currículo, preparando para apresentar durante o evento.
 
 # 29/09/2026:
 
-Terça-feira, dia de monitoria do Pensamento Computacional, onde o instrutor Victor deu continuidade ao estudo de JavaScript com um desafio de criação de um programa de fidelidade, utilizando variáveis e estruturas condicionais para classificar clientes.
-Durante minha monitoria, auxiliei diversas fileiras, esclarecendo dúvidas e retomando conteúdos. Também continuei ajustando meu portfólio, currículo e até o Linkedin para aproveitar as oportunidades da TechFil.
+Terça-feira, dia de monitoria do Pensamento Computacional, onde o instrutor Victor deu continuidade ao estudo de JavaScript com um desafio de criação de um programa de fidelidade, utilizando variáveis e estruturas condicionais para classificar clientes .
+Durante minha monitoria, auxiliei diversas fileiras, esclarecendo dúvidas e retomando conteúdos. Também continuei ajustando meu portfólio, currículo e até o Linkedin para aproveitar as oportunidades da TechFil (mais detalhes no meu portfolio).
 
 # 30/09/2026:
 
@@ -198,3 +199,27 @@ Quinta-feira, finalizei meu novo portfólio e currículo para apresentar melhor 
 # 02/10/2026:
 
 Sexta-feira, último dia da TechFil 2026. Finalizei alguns ajustes nos meus materiais profissionais, fiz estes commits para atualizar o github e aproveitei a semana tecnológica como oportunidade de aprendizado e aproximação com o mercado de trabalho. Não houve encontro do grupo de Inteligência Artificial hoje.
+
+### 05/10/2026
+
+Segunda-feira, dia de monitoria do Londrinense Tech, onde, juntamente com a instrutora Sibelly, os alunos desenvolveram uma página sobre seu filme favorito utilizando HTML e CSS. Durante a monitoria, ajudei alguns alunos com dificuldades nas tags semânticas e, ao final, participamos de uma dinâmica no Blooket (mais detalhes no meu portfolio). Além disso, organizei meus cronogramas e materiais para a semana.
+
+### 06/10/2026
+
+Terça-feira, dia de monitoria do Pensamento Computacional, onde, juntamente com os instrutores Victor e Felipe, os alunos deram continuidade ao JavaScript, estudando estruturas condicionais e de repetição, como else, for e while. Durante a monitoria, esclareci dúvidas e ajudei na conclusão das atividades (mais detalhes no meu portfolio). Além disso, comecei um curso de desenvolvimento web para aprofundar meus conhecimentos em Javascript e futuramente estudar React.
+
+### 07/10/2026
+
+Quarta-feira, sem monitoria, aproveitei o dia para colocar em dia as atividades pendentes da faculdade, principalmente os exercícios de POO do professor Marcelo, utilizando Java, e as atividades manuais de Elementos de Cálculo e Álgebra Linear do professor Guilherme.
+
+### 08/10/2026
+
+Quinta-feira, sem monitoria, comecei a desenvolver um novo portfólio pessoal do zero, utilizando HTML, CSS e JavaScript. Aproveitei para colocar em prática os conhecimentos do curso de desenvolvimento web e Javascript e comecei a estruturar o site para apresentar meus projetos e experiências acadêmicas.
+
+### 09/10/2026
+
+Sexta-feira, continuei o desenvolvimento do meu novo portfólio, avançando bastante na estrutura e na parte visual, embora ainda falte adicionar todas as aulas e projetos. Além disso, às 16h30, participei do Grupo de Pesquisa em Inteligência Artificial, onde trabalhamos com questões de uma planilha e discutimos aspectos éticos relacionados à IA.
+
+### 14/10/2026
+
+Quarta-feira, sem monitoria, aproveitei o dia para finalizar e atualizar meu portfólio novo, criando algumas pastas no VS Code e, separando no código algumas abas, transferindo os relatórios e resumos das aulas de Londrinense tech, Pensamento Computacional e de Grupo de Pesquisa de IA para esse novo portfólio.
