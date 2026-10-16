@@ -223,3 +223,11 @@ Sexta-feira, continuei o desenvolvimento do meu novo portfólio, avançando bast
 ### 14/10/2026
 
 Quarta-feira, sem monitoria, aproveitei o dia para finalizar e atualizar meu portfólio novo, criando algumas pastas no VS Code e, separando no código algumas abas, transferindo os relatórios e resumos das aulas de Londrinense tech, Pensamento Computacional e de Grupo de Pesquisa de IA para esse novo portfólio.
+
+### 15/10/2026
+
+Quinta-feira, sem monitoria, finalizei as atividades de matemática (Elementos de cálculo e álgebra linear) e dei inicio a um projeto de médio/longo prazo para desenvolver um sistema com banco de dados, frontend e backend avançado, mas ainda tudo em fase inicial.
+
+### 16/10/2026
+
+Sexta-feira, acabou não tendo grupo de IA, então aproveitei o dia para finalizar atividades passadas na aula de ontem, incluindo Desenvolvimento Web e LPOO. Criei um site com HTML puro e terminei as atividades passadas pelo Marcelo. Por fim, atualizei as pendências como do relatório e do cronograma.
