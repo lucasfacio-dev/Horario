@@ -226,8 +226,28 @@ Quarta-feira, sem monitoria, aproveitei o dia para finalizar e atualizar meu por
 
 ### 15/10/2026
 
-Quinta-feira, sem monitoria, finalizei as atividades de matemática (Elementos de cálculo e álgebra linear) e dei inicio a um projeto de médio/longo prazo para desenvolver um sistema com banco de dados, frontend e backend avançado, mas ainda tudo em fase inicial.
+Quinta-feira, sem monitoria, finalizei as atividades de matemática (Elementos de cálculo e álgebra linear) e dei inicio a um projeto de médio/longo prazo para desenvolver um sistema com banco de dados, frontend e backend avançado, mas ainda tudo em fase inicial, pretendo começar revisando e aprofundando conhecimentos de frontend e depois entrar em backend.
 
 ### 16/10/2026
 
 Sexta-feira, acabou não tendo grupo de IA, então aproveitei o dia para finalizar atividades passadas na aula de ontem, incluindo Desenvolvimento Web e LPOO. Criei um site com HTML puro e terminei as atividades passadas pelo Marcelo. Por fim, atualizei as pendências como do relatório e do cronograma.
+
+### 19/10/2026
+
+Segunda-feira, dia de monitoria do Londrinense Tech, onde, juntamente com o instrutor Felipe, os alunos realizaram uma revisão geral dos conteúdos estudados durante o ano, incluindo Portugol, HTML e CSS. Foram realizadas atividades de revisão e dinâmicas no Blooket e de perguntas sobre tags HTML e propriedades CSS. Durante minha monitoria, auxiliei os alunos e pude perceber uma grande evolução na compreensão dos conteúdos e na participação das atividades (mais detalhes no meu portfolio). Nesta semana, também, dei início ao curso de frontend para o projeto a longo prazo.
+
+### 20/10/2026
+
+Terça-feira, dia de monitoria do Pensamento Computacional, onde, juntamente com os instrutores Victor e Felipe, os alunos revisaram JavaScript por meio de uma dinâmica no Kahoot e deram continuidade ao conteúdo de funções e escopo. A atividade prática envolveu a criação de funções para calcular o IMC, classificar o resultado e gerar um relatório. Durante minha monitoria, esclareci dúvidas, ajudei na correção de erros e auxiliei alunos que precisavam retomar conteúdos anteriores (mais detalhes no meu portfólio). Após a monitoria, também, aproveitei para finalizar os relatórios da semana e atualizar o portfólio.
+
+### 21/10/2026
+
+Quarta-feira, sem monitoria, aproveitei o dia para finalizar atividades pendentes da faculdade, principalmente das matérias de Desenvolvimento Web e POO, além de outras tarefas acadêmicas. Organizei as demandas para evitar o acúmulo de atividades e manter o cronograma de estudos em dia.
+
+### 22/10/2026
+
+Quinta-feira, sem monitoria, dei continuidade ao curso de desenvolvimento web front-end, finalizando a revisão de HTML e CSS. Como já tenho uma base desses conteúdos e eles também são trabalhados nas aulas da faculdade, meu objetivo é avançar para JavaScript e aprofundar meus conhecimentos antes de começar a estudar React. Esse estudo faz parte do meu planejamento de longo prazo, que também inclui aprender desenvolvimento back-end mais tarde.
+
+### 23/10/2026
+
+Sexta-feira, finalizei as atividades propostas nas aulas anteriores para evitar o acúmulo de tarefas e atualizei meus cronogramas semanais. Além disso, participei do Grupo de IA, onde aprofundamos os estudos sobre o processo de RAG e suas etapas, compreendendo melhor como essa técnica funciona e como pode ser utilizada em aplicações de IA.
