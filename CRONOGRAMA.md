@@ -43,12 +43,12 @@
 <div align="center">
   <table>
     <tr>
-      <td>✅</td>
-      <td>Finalizar curso completo de Java (incluindo Java EE e Spring Boot)</td>
+      <td>⌛</td>
+      <td>Finalizar curso completo de Desenvolvimento Web Frontend</td>
     </tr>
     <tr>
-      <td>✅</td>
-      <td>Criar mais um projeto em Java para testar os conhecimentos</td>
+      <td>⌛</td>
+      <td>Dar continuidade no projeto de sistema full stack que planejo unir frontend e backend</td>
     </tr>
     <tr>
       <td>✅</td>
