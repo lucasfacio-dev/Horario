@@ -200,54 +200,54 @@ Quinta-feira, finalizei meu novo portfólio e currículo para apresentar melhor 
 
 Sexta-feira, último dia da TechFil 2026. Finalizei alguns ajustes nos meus materiais profissionais, fiz estes commits para atualizar o github e aproveitei a semana tecnológica como oportunidade de aprendizado e aproximação com o mercado de trabalho. Não houve encontro do grupo de Inteligência Artificial hoje.
 
-### 05/10/2026
+# 05/10/2026
 
 Segunda-feira, dia de monitoria do Londrinense Tech, onde, juntamente com a instrutora Sibelly, os alunos desenvolveram uma página sobre seu filme favorito utilizando HTML e CSS. Durante a monitoria, ajudei alguns alunos com dificuldades nas tags semânticas e, ao final, participamos de uma dinâmica no Blooket (mais detalhes no meu portfolio). Além disso, organizei meus cronogramas e materiais para a semana.
 
-### 06/10/2026
+# 06/10/2026
 
 Terça-feira, dia de monitoria do Pensamento Computacional, onde, juntamente com os instrutores Victor e Felipe, os alunos deram continuidade ao JavaScript, estudando estruturas condicionais e de repetição, como else, for e while. Durante a monitoria, esclareci dúvidas e ajudei na conclusão das atividades (mais detalhes no meu portfolio). Além disso, comecei um curso de desenvolvimento web para aprofundar meus conhecimentos em Javascript e futuramente estudar React.
 
-### 07/10/2026
+# 07/10/2026
 
 Quarta-feira, sem monitoria, aproveitei o dia para colocar em dia as atividades pendentes da faculdade, principalmente os exercícios de POO do professor Marcelo, utilizando Java, e as atividades manuais de Elementos de Cálculo e Álgebra Linear do professor Guilherme.
 
-### 08/10/2026
+# 08/10/2026
 
 Quinta-feira, sem monitoria, comecei a desenvolver um novo portfólio pessoal do zero, utilizando HTML, CSS e JavaScript. Aproveitei para colocar em prática os conhecimentos do curso de desenvolvimento web e Javascript e comecei a estruturar o site para apresentar meus projetos e experiências acadêmicas.
 
-### 09/10/2026
+# 09/10/2026
 
 Sexta-feira, continuei o desenvolvimento do meu novo portfólio, avançando bastante na estrutura e na parte visual, embora ainda falte adicionar todas as aulas e projetos. Além disso, às 16h30, participei do Grupo de Pesquisa em Inteligência Artificial, onde trabalhamos com questões de uma planilha e discutimos aspectos éticos relacionados à IA.
 
-### 14/10/2026
+# 14/10/2026
 
 Quarta-feira, sem monitoria, aproveitei o dia para finalizar e atualizar meu portfólio novo, criando algumas pastas no VS Code e, separando no código algumas abas, transferindo os relatórios e resumos das aulas de Londrinense tech, Pensamento Computacional e de Grupo de Pesquisa de IA para esse novo portfólio.
 
-### 15/10/2026
+# 15/10/2026
 
 Quinta-feira, sem monitoria, finalizei as atividades de matemática (Elementos de cálculo e álgebra linear) e dei inicio a um projeto de médio/longo prazo para desenvolver um sistema com banco de dados, frontend e backend avançado, mas ainda tudo em fase inicial, pretendo começar revisando e aprofundando conhecimentos de frontend e depois entrar em backend.
 
-### 16/10/2026
+# 16/10/2026
 
 Sexta-feira, acabou não tendo grupo de IA, então aproveitei o dia para finalizar atividades passadas na aula de ontem, incluindo Desenvolvimento Web e LPOO. Criei um site com HTML puro e terminei as atividades passadas pelo Marcelo. Por fim, atualizei as pendências como do relatório e do cronograma.
 
-### 19/10/2026
+# 19/10/2026
 
 Segunda-feira, dia de monitoria do Londrinense Tech, onde, juntamente com o instrutor Felipe, os alunos realizaram uma revisão geral dos conteúdos estudados durante o ano, incluindo Portugol, HTML e CSS. Foram realizadas atividades de revisão e dinâmicas no Blooket e de perguntas sobre tags HTML e propriedades CSS. Durante minha monitoria, auxiliei os alunos e pude perceber uma grande evolução na compreensão dos conteúdos e na participação das atividades (mais detalhes no meu portfolio). Nesta semana, também, dei início ao curso de frontend para o projeto a longo prazo.
 
-### 20/10/2026
+# 20/10/2026
 
 Terça-feira, dia de monitoria do Pensamento Computacional, onde, juntamente com os instrutores Victor e Felipe, os alunos revisaram JavaScript por meio de uma dinâmica no Kahoot e deram continuidade ao conteúdo de funções e escopo. A atividade prática envolveu a criação de funções para calcular o IMC, classificar o resultado e gerar um relatório. Durante minha monitoria, esclareci dúvidas, ajudei na correção de erros e auxiliei alunos que precisavam retomar conteúdos anteriores (mais detalhes no meu portfólio). Após a monitoria, também, aproveitei para finalizar os relatórios da semana e atualizar o portfólio.
 
-### 21/10/2026
+# 21/10/2026
 
 Quarta-feira, sem monitoria, aproveitei o dia para finalizar atividades pendentes da faculdade, principalmente das matérias de Desenvolvimento Web e POO, além de outras tarefas acadêmicas. Organizei as demandas para evitar o acúmulo de atividades e manter o cronograma de estudos em dia.
 
-### 22/10/2026
+# 22/10/2026
 
 Quinta-feira, sem monitoria, dei continuidade ao curso de desenvolvimento web front-end, finalizando a revisão de HTML e CSS. Como já tenho uma base desses conteúdos e eles também são trabalhados nas aulas da faculdade, meu objetivo é avançar para JavaScript e aprofundar meus conhecimentos antes de começar a estudar React. Esse estudo faz parte do meu planejamento de longo prazo, que também inclui aprender desenvolvimento back-end mais tarde.
 
-### 23/10/2026
+# 23/10/2026
 
 Sexta-feira, finalizei as atividades propostas nas aulas anteriores para evitar o acúmulo de tarefas e atualizei meus cronogramas semanais. Além disso, participei do Grupo de IA, onde aprofundamos os estudos sobre o processo de RAG e suas etapas, compreendendo melhor como essa técnica funciona e como pode ser utilizada em aplicações de IA.
