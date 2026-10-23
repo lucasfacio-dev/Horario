@@ -38,7 +38,7 @@
 
 ---
 
-## 🎯 Metas e Objetivos da Semana (NPI)
+## 🎯 Metas e Objetivos do Mês (NPI)
 
 <div align="center">
   <table>
