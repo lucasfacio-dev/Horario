@@ -251,3 +251,35 @@ Quinta-feira, sem monitoria, dei continuidade ao curso de desenvolvimento web fr
 # 23/10/2026
 
 Sexta-feira, finalizei as atividades propostas nas aulas anteriores para evitar o acúmulo de tarefas e atualizei meus cronogramas semanais. Além disso, participei do Grupo de IA, onde aprofundamos os estudos sobre o processo de RAG e suas etapas, compreendendo melhor como essa técnica funciona e como pode ser utilizada em aplicações de IA.
+
+# 26/10/2026
+
+Segunda-feira, dia da última monitoria do Londrinense Tech neste ano, encerrando as atividades antes da entrega dos certificados. Os alunos participaram de uma dinâmica com 10 perguntas sobre os conteúdos estudados ao longo do ano, incluindo Portugol, HTML e CSS. Depois, a aula foi dedicada a atividades no Blooket e no Kahoot, utilizadas para revisar os conteúdos de forma descontraída. Durante minha monitoria, acompanhei a turma e ajudei a manter a organização da sala (mais detalhes no meu portfólio).
+Além disso, dei continuidade à revisão de CSS no curso de desenvolvimento front-end, conteúdo que também está relacionado ao meu projeto de longo prazo.
+
+# 27/10/2026
+
+Terça-feira, dia de monitoria do Pensamento Computacional, onde os alunos deram continuidade aos estudos de JavaScript por meio de uma atividade prática envolvendo variáveis com let e métodos para realizar operações matemáticas, como soma, subtração, multiplicação, divisão e potência. A atividade também exigia o tratamento de situações específicas, como impedir a divisão por zero. Ao final, o instrutor Felipe apresentou brevemente os conceitos de escopo e arrow functions, que poderão ser aprofundados no futuro. Durante minha monitoria, esclareci dúvidas e ajudei os alunos a entender o modelo e desenvolver a atividade sozinhos (mais detalhes no meu portfólio).
+Além disso, continuei a revisão de CSS, finalizando o conteúdo e relacionando os conceitos estudados com as atividades de Desenvolvimento Web passadas pela professora Renata.
+
+# 28/10/2026
+
+Quarta-feira, sem monitoria, aproveitei o dia para elaborar os relatórios das últimas aulas e atualizar meu portfólio, organizando os registros das atividades realizadas durante a semana. Também dei continuidade à revisão de CSS, finalizando os últimos pontos do conteúdo para avançar nos estudos de desenvolvimento front-end.
+
+# 29/10/2026
+
+Quinta-feira, sem monitoria, comecei os estudos de JavaScript no curso de desenvolvimento front-end, dando continuidade à minha preparação para aprofundar os conhecimentos em desenvolvimento web e futuramente estudar React. Além disso, reservei um período para revisar os conteúdos de Análise e Projeto de Algoritmos que não havia compreendido muito bem durante as aulas, buscando reforçar a base e acompanhar melhor a matéria.
+
+# 30/10/2026
+
+Sexta-feira, dei continuidade aos estudos de JavaScript, avançando no conteúdo do curso de desenvolvimento front-end e praticando os conceitos apresentados. Além disso, participei do Grupo de IA, que realizou seu último encontro com o instrutor Eron. Durante a aula, fizemos uma revisão geral dos assuntos abordados ao longo dos encontros anteriores e, no final, tivemos uma celebração de encerramento.
+
+# 03/11/2026
+
+Terça-feira, dia da última aula de monitoria do Pensamento Computacional neste ano, encerrando as atividades do programa com uma aula tranquila de revisão por meio de dinâmicas no Blooket (mais detalhes no meu portfólio). Além disso, aproveitei o dia para dar continuidade à atividade de Desenvolvimento Web, proposta pela professora Renata, que consiste na criação de uma loja virtual utilizando HTML e CSS, buscando finalizar o desenvolvimento da página.
+
+# 04/11/2026
+
+Quarta-feira, sem monitoria, reservei o dia para organizar as atividades da semana. Comecei elaborando o relatório da última aula de Pensamento Computacional e dando continuidade à atualização do meu portfólio. Também trabalhei na atualização do cronograma, organizando os registros e as atividades realizadas.
+Além disso, comecei a atividade proposta pelo professor Robson dada na aula passada e, junto com meu amigo Duilio, organizei o envio da atividade de Desenvolvimento Web, feita para a professora Renata, ao GitHub, finalizando essa etapa do projeto.
+
