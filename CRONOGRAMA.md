@@ -283,3 +283,11 @@ Terça-feira, dia da última aula de monitoria do Pensamento Computacional neste
 Quarta-feira, sem monitoria, reservei o dia para organizar as atividades da semana. Comecei elaborando o relatório da última aula de Pensamento Computacional e dando continuidade à atualização do meu portfólio. Também trabalhei na atualização do cronograma, organizando os registros e as atividades realizadas.
 Além disso, comecei a atividade proposta pelo professor Robson dada na aula passada e, junto com meu amigo Duilio, organizei o envio da atividade de Desenvolvimento Web, feita para a professora Renata, ao GitHub, finalizando essa etapa do projeto.
 
+# 05/11/2026
+
+Quinta-feira, sem monitoria, aproveitei o dia para finalizar algumas atividades pendentes da faculdade. Concluí a atividade de pesquisa sobre recursividade em C++, proposta pelo professor Robson, e também finalizei a atividade de modelagem de casos de uso no Astah, passada pelo professor Eron. Além disso, reservei um tempo para revisar os conteúdos dessas disciplinas, buscando reforçar os assuntos estudados e entender melhor os pontos que ainda tinha dificuldade.
+
+# 06/11/2026
+
+Sexta-feira, realizei a atividade proposta pelo professor Marcelo, envolvendo os conteúdos de Java. Também aproveitei o dia para estudar com mais profundidade o novo conteúdo apresentado na aula de quinta-feira, relacionado às estruturas de dados e coleções em Java, incluindo Arrays, Set, Generics, Collection e Collections. Como não houve encontro do Grupo de IA, provavelmente devido à saída do instrutor Eron, decidi aproveitar o período para revisar outras matérias da faculdade nas quais ainda tenho dificuldades. Na próxima semana, pretendo retomar os estudos de Javascript e dar continuidade ao curso de desenvolvimento front-end.
+
